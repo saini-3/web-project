@@ -16,8 +16,15 @@
 		<td>Mathematics</td>
 		<td>85</td>
 		<td>A</td>
+        <tr>
+		<td>Nani</td>
+		<td>Science</td>
+		<td>90</td>
+		<td>A+</td>
+        </tr>
 		</tr>
 		
 	</table>
 </body>
+
 </html>
