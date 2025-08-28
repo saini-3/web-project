@@ -22,9 +22,14 @@
 		<td>90</td>
 		<td>A+</td>
         </tr>
+       <td>Nani</td>
+       <td>Physics</td>
+       <td>92</td>
+       <td>A+</td>
 		</tr>
 		
 	</table>
 </body>
 
 </html>
+
