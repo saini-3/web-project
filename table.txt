@@ -16,20 +16,28 @@
 		<td>Mathematics</td>
 		<td>85</td>
 		<td>A</td>
+        </tr>
         <tr>
 		<td>Nani</td>
 		<td>Science</td>
 		<td>90</td>
 		<td>A+</td>
         </tr>
+       <tr>
        <td>Nani</td>
        <td>Physics</td>
        <td>92</td>
        <td>A+</td>
 		</tr>
-		
+        <tr>
+        <td>Nani</td>
+		<td>Chemistry</td>
+        <td>85</td>
+        <td>A</td>
+        </tr>
 	</table>
 </body>
 
 </html>
+
 
