@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>students marks</title>
+</head>
+<body>
+	<table border=1>
+		<tr>
+		<th>Name</th>
+		<th>Subject</th>
+		<th>Marks</th>
+		<th>Grade</th>
+		</tr>
+		<tr>
+		<td>Nani</td>
+		<td>Mathematics</td>
+		<td>85</td>
+		<td>A</td>
+		</tr>
+		
+	</table>
+</body>
+</html>
